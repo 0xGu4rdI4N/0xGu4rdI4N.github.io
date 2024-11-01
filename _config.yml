@@ -1,3 +1,6 @@
 title: My GitHub Pages Site
 description: A simple website built with Jekyll
-theme: minima
+theme: jekyll-theme-cayman
+plugins:
+  - jekyll-feed
+  - jekyll-remote-theme
