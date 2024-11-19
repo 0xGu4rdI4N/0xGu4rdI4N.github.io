@@ -1,6 +1,6 @@
 title: My GitHub Pages Site
 description: The Legend of Guardian
-theme: jekyll-theme-cayman
+theme: jekyll-theme-hacker
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
