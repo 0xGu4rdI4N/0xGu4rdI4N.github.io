@@ -27,7 +27,7 @@ Welcome! This page serves as a hub for my coding journey, covering my experience
 
 ## Blogs
 ### Technical Topics
-- [Understanding ELF Files](link_to_blog_post)
+- [Understanding ELF Files](blog1.html)
 - [Operating System Internals](link_to_blog_post)
 
 ### Learning Journeys
