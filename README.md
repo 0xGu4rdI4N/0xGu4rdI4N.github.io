@@ -1,4 +1,4 @@
-# Welcome to My GitHub Page
+# just some random stuff !!
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -31,12 +31,10 @@ Welcome! This page serves as a hub for my coding journey, covering my experience
 - [Operating System Internals](link_to_blog_post)
 
 ### Learning Journeys
-- [My First Hackathon Experience](link_to_blog_post)
 - [Building a Circuit with 555 and 741 ICs](link_to_blog_post)
 
 ## Projects
-- [Project 1: Name of Project](link_to_project)
-- [Project 2: Name of Project](link_to_project)
+- [GOOS (OS)](link_to_project)
+- [YourBuddy](link_to_project)
 
-## Contact
-Feel free to reach out via [email@example.com](mailto:email@example.com) or connect on [LinkedIn](link_to_linkedin_profile).
+
