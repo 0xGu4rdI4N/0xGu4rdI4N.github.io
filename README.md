@@ -26,7 +26,7 @@ Welcome! This page serves as a hub for my coding journey, covering my experience
 
 ## Blogs
 ### Technical Topics
-- [Understanding ELF Files](/0fecc666-b633-47a8-9cfa-ee3d85c19ce9_Export-cb1e208e-a41b-4bcc-9097-1afce6f7ced2/Backdoor%20challenge%20114ebce620a980c38a5fd4589632942f.md)
+- [Understanding ELF Files](/0fecc666-b633-47a8-9cfa-ee3d85c19ce9_Export-cb1e208e-a41b-4bcc-9097-1afce6f7ced2/Backdoor%20challenge%20114ebce620a980c38a5fd4589632942f.html)
 - [Operating System Internals](link_to_blog_post)
 
 ### Learning Journeys
