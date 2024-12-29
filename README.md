@@ -1,4 +1,4 @@
-# just some random stuff !!
+# 0xGu4rdI4N
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -19,7 +19,6 @@ Welcome! This page serves as a hub for my coding journey, covering my experience
 ## Writeups
 ### Capture the Flag (CTF) Challenges
 - [CTF Challenge 1](link_to_writeup1)
-- [CTF Challenge 2](link_to_writeup2)
 
 ### Binary Exploitation
 - [Introductory Exploit Techniques](link_to_writeup)
@@ -27,14 +26,14 @@ Welcome! This page serves as a hub for my coding journey, covering my experience
 
 ## Blogs
 ### Technical Topics
-- [Understanding ELF Files](blog1.html)
+- [Understanding ELF Files](/0fecc666-b633-47a8-9cfa-ee3d85c19ce9_Export-cb1e208e-a41b-4bcc-9097-1afce6f7ced2/Backdoor%20challenge%20114ebce620a980c38a5fd4589632942f.md)
 - [Operating System Internals](link_to_blog_post)
 
 ### Learning Journeys
-- [Building a Circuit with 555 and 741 ICs](link_to_blog_post)
+- [Building a Wein's Bridge Oscillator for FM Modulation with 555 and 741 ICs](FM_modulation.pdf)
 
 ## Projects
-- [GOOS (OS)](link_to_project)
-- [YourBuddy](link_to_project)
+- [Guard (OS)](https://github.com/0xGu4rdI4N/os_rust)
+- [YourBuddy](https://github.com/0xGu4rdI4N/Chat_Website)
 
 
